@@ -16,5 +16,5 @@ public static void main(String[] arg){
 	{
 		System.out.println("Index of "+ i +": "+arr[i]);
 	}
-}
+   }
 }
